@@ -16,7 +16,7 @@
     "mysql",
     "vue"
   ],
-  "author": "Jose Diaz",
+  "author": "proyecto_sena",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
